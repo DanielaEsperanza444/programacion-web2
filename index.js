@@ -20,5 +20,5 @@ console.log(resultado_producto)
 console.log(nombreCompleto('Carlos'));
 
 
-const saludo = (nombre) => `Hola, cómo estas ${nombre}`
-console.log(saludo('Daniela!!'));
+const saludo = (nombre) => `Hola, ${nombre} como estás?`
+console.log(saludo('Daniela!'));
